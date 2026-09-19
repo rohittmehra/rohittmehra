@@ -150,7 +150,8 @@ Business Insights
 # 📚 Certifications
 
 * 🏅 Advanced Excel
-* 🏅 Deloitte Data Analytics
+* 🏅 Data Analytics - Deloitte
+* 🏅 Data Analytics - SkillsYard
 * 🏅 Data Analysis with Python — IBM
 * 🏅 Data Visualization with Python — IBM
 
@@ -174,22 +175,42 @@ I'm continuously building practical projects focused on **MIS Reporting, Busines
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
-<p align="left">
+<p align="center">
+
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-View%20Projects-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 </p>
 
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MIS%20Reporting-Advanced%20Excel-217346?style=flat-square" />
+  <img src="https://img.shields.io/badge/Business%20Intelligence-Power%20BI-F2C811?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-SQL-4479A1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Analytics-Python-3776AB?style=flat-square" />
+</p>
+
+<p align="center">
+  <b>📊 MIS Executive | Aspiring Data Analyst</b>
+  <br>
+  <sub>Turning raw data into meaningful reports, dashboards & actionable insights.</sub>
+</p>
 ---
 
 <p align="center">
