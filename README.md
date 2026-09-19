@@ -1,3 +1,31 @@
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+&nbsp;
+
+<a href="YOUR_GITHUB_URL">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+&nbsp;
+
+<a href="YOUR_INSTAGRAM_URL">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+&nbsp;
+
+<a href="YOUR_ALL_LINK_URL">
+<img src="https://img.shields.io/badge/All%20Links-Visit-6C63FF?style=for-the-badge&logo=linktree&logoColor=white" />
+</a>
+
+</p>
+
 # 👋 Hi, I'm Rohit Mehra
 
 ### 📊 MIS Executive | Aspiring Data Analyst | Advanced Excel | Power BI | SQL | Python
