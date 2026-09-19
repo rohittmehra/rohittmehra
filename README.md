@@ -199,9 +199,5 @@ I'm continuously building practical projects focused on **MIS Reporting, Busines
 </p>
 
 <p align="center">
-  <b>📊 Turning Data into Reports. Reports into Insights. Insights into Decisions.</b>
-</p>
-
-<p align="center">
   ⭐ If you find my projects useful, consider starring the repositories!
 </p>
