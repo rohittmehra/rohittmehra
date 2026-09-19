@@ -178,40 +178,25 @@ I'm continuously building practical projects focused on **MIS Reporting, Busines
 ## 🤝 Let's Connect
 
 <p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-View%20Projects-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MIS%20Reporting-Advanced%20Excel-217346?style=flat-square" />
-  <img src="https://img.shields.io/badge/Business%20Intelligence-Power%20BI-F2C811?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-SQL-4479A1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Analytics-Python-3776AB?style=flat-square" />
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <b>📊 MIS Executive | Aspiring Data Analyst</b>
   <br>
-  <sub>Turning raw data into meaningful reports, dashboards & actionable insights.</sub>
+  <b>📊 MIS Executive • 📈 Aspiring Data Analyst</b>
+  <br><br>
+  <i>Turning data into reports, insights & business decisions.</i>
 </p>
----
 
 <p align="center">
   <b>📊 Turning Data into Reports. Reports into Insights. Insights into Decisions.</b>
