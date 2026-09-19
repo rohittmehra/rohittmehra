@@ -178,7 +178,7 @@ I'm continuously building practical projects focused on **MIS Reporting, Busines
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/rohitt-mehra/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
@@ -186,7 +186,7 @@ I'm continuously building practical projects focused on **MIS Reporting, Busines
     <img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:irohitt04@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
