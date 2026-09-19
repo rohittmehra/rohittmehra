@@ -59,14 +59,16 @@ Business Insights
 
 ### 🎯 Key Strengths
 
-* 📑 Daily, Weekly & Monthly MIS Reporting
-* 📊 Advanced Excel Reporting & Automation
-* 🔍 Data Cleaning & Reconciliation
-* 📈 KPI & Performance Analysis
-* ⚡ Automated Reporting Workflows
-* 📊 Power BI Dashboard Development
-* 🗄️ SQL Data Extraction & Analysis
-* 🐍 Python-based Data Analysis
+## 🚀 What I Do
+
+| 📊 MIS & Reporting | 📈 Data Analytics |
+|:---|:---|
+| 📑 Daily / Weekly / Monthly MIS | 🗄️ SQL Data Analysis |
+| 📊 Advanced Excel Reporting | 🐍 Python & Pandas |
+| ⚡ MIS Automation | 📊 Power BI & DAX |
+| 📈 KPI & Performance Reports | 🔍 EDA & Data Cleaning |
+| 🔄 Data Reconciliation | 📉 Trend & Variance Analysis |
+| 📋 Management Dashboards | 💡 Business Insights |
 
 ---
 
