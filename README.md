@@ -57,18 +57,16 @@ Power BI Dashboards
 Business Insights
 ```
 
-### 🎯 Key Strengths
+## 💼 Key Strengths
 
-## 🚀 What I Do
-
-| 📊 MIS & Reporting | 📈 Data Analytics |
-|:---|:---|
-| 📑 Daily / Weekly / Monthly MIS | 🗄️ SQL Data Analysis |
-| 📊 Advanced Excel Reporting | 🐍 Python & Pandas |
-| ⚡ MIS Automation | 📊 Power BI & DAX |
-| 📈 KPI & Performance Reports | 🔍 EDA & Data Cleaning |
-| 🔄 Data Reconciliation | 📉 Trend & Variance Analysis |
-| 📋 Management Dashboards | 💡 Business Insights |
+- 📑 **MIS Reporting & Management Reporting** — Daily, Weekly & Monthly Reports
+- 📊 **Advanced Excel & MIS Automation** — Pivot Tables, XLOOKUP, SUMIFS, Power Query & Dashboards
+- 📈 **KPI, Trend & Variance Analysis** — Business Performance & Management Insights
+- 🔄 **Data Validation & Reconciliation** — Accurate and Reliable Reporting
+- 📊 **Power BI & Data Visualization** — Interactive Dashboards, DAX & KPI Reporting
+- 🗄️ **SQL & Data Analysis** — Data Extraction, Joins, CTEs & Analytical Queries
+- 🐍 **Python for Data Analytics** — Pandas, NumPy, EDA & Data Transformation
+- 💡 **Business Intelligence** — Turning Raw Data into Actionable Insights
 
 ---
 
